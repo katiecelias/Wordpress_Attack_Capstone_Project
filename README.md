@@ -1,1 +1,7 @@
 # Wordpress_Attack_Capstone_Project
+
+As part of our final project for the UCLA Cybersecurity Bootcamp, we worked in groups using the Azure cloud environment to set up virtual machines, which included Windows and Linux machines, as well as making use of an ELK SIEM stack. The ELK stack is a Security information and event management tool, comparable to Splunk, which are used by many Security Analysts in the field. 
+
+This project demonstrates the successful exploitation of vulnerabilities to capture a mock flag document and then in turn designing and building solutions to prevent future exploits. By applying skills in security risk analysis, we were able to exploit the vulnerable machines, and then analyze the attack from the logging system we set up. This project showcases skills learned and demonstrates the cybersecurity defense techniques outside of the classroom. For this presentation, we will be focusing on the red team analysis of the project. 
+ 
+For this presentation we are presenting within the framework Lockheed Martin developed that maps out another form of intelligence-driven layered defense called the cyber kill chain. This breaks down seven steps an attacker would need to complete out before they would be able to carry out an attack. Inspired by a military model, Lockheed Martin developed the cyber kill chain as a structured framework to classify, develop an attack vector, engage, and dismantle a target
